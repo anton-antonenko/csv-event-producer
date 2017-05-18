@@ -2,6 +2,7 @@
 # csv-event-producer
 
 This is a simple csv event producer which produce csv lines and writes them to socket line by line.
+There're 11 product categories with at least 12 products in each.
 
 ```
 usage: csv-event-producer [-e <events-num>] -f <date-from> [-h <host>]
