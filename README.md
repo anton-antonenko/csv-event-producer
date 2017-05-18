@@ -4,7 +4,7 @@
 This is a simple csv event producer which produce csv lines and writes them to socket line by line.
 There're 11 product categories with at least 12 products in each.    
 IP address is generated randomly.    
-Date of purchase is generated randomly in range \<date-from> <date-to>.   
+Date of purchase is generated randomly in range \<date-from> \<date-to>.   
 Every line takes random product and creates a purchase which is sent to socket as a CSV line. 
 
 ```
