@@ -1,0 +1,9 @@
+*.class
+
+# Package Files #
+*.jar
+
+/target/
+/csv-event-producer.iml
+/.idea/
+
