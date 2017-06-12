@@ -1,7 +1,7 @@
 
 # csv-event-producer
 
-This is a simple csv event producer which produce csv lines and writes them to socket line by line.
+This is a simple csv event producer which produces csv lines and writes them to socket line by line.
 There're 11 product categories with at least 12 products in each.    
 IP address is generated randomly.    
 Date of purchase is generated randomly in range \<date-from> \<date-to>.   
